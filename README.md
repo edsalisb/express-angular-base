@@ -4,8 +4,8 @@ This application was made to provide a fork point for all angular projects that 
 
 ## Dev Mode
 
-npm run serve:dev:client
-npm run serve:dev:server
+- npm run serve:dev:client
+- npm run serve:dev:server
 
 ## Prod mode
 
